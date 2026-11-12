@@ -1,0 +1,2 @@
+# LUNA_SY-26-27-CCDATSCL_EXERCISES
+Numpy Fundementals
